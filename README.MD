@@ -4,7 +4,7 @@
 <br>
 <br>
 
-**A.I. Chrome Dinosaur Game** in **Python** using **Pygame** and **NEAT Algorithm**! 🦖
+#### **A.I. Chrome Dinosaur Game** in **Python** using **Pygame** and **NEAT Algorithm**! 🦖
 
 It's the game you see in the Chrome Browser, when you're offline - but with A.I. 
 
@@ -17,6 +17,7 @@ Made by [maxontech](https://twitter.com/max_on_tech)
 - [Installation](#installation)
 - [Controls](#controls)
 - [Libraries](#libraries)
+- [FAQ](#faq)
 - [Contact](#contact)
 
 ## Description
@@ -51,8 +52,7 @@ Requirements: You must have [Python](https://www.python.org/downloads/) installe
     ```bash
     python main.py
     ```
-Note on PyCharm: Often PyCharm detects the requirements and asks you to install them and create a virtual env. 
-![Preview](/pycharm-requirements.PNG)
+Note on PyCharm: Often PyCharm detects the requirements and asks you to install them and create a virtual env.
 
 ## Controls
 - You don't need to control the dinosaur. The AI will do that for you :)
@@ -61,6 +61,12 @@ Note on PyCharm: Often PyCharm detects the requirements and asks you to install 
 
 - [pygame](https://www.pygame.org/news): Pygame is a cross-platform set of Python modules designed for writing video games.
 - [NEAT](https://neat-python.readthedocs.io/en/latest/): NEAT is a method developed by Kenneth O. Stanley for evolving arbitrary neural networks.
+
+## FAQ
+- How to Open GitHub Projects in PyCharm? [Explained Here](https://youtu.be/cAnWazo5pFU)
+- How to use Virtual Environments? [Explained Here](https://youtu.be/2P30W3TN4nI)
+- How to install PyCharm and Python? [Explained Here](https://youtu.be/XsL8JDkH-ec)
+- How to set PyCharm Config. and Interpreter? [Explained Here](https://youtu.be/OajNS-WHiUI)
 
 ## Contact
 
