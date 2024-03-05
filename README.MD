@@ -5,7 +5,7 @@
 <br>
 
 
-##  **A.I. Chrome Dinosaur Game** in **Python** using **Pygame** and **NEAT Algorithm**! 🦖
+##  **A.I. Chrome Dinosaur** in **Python** using **Pygame** and **NEAT Algorithm**! 🦖
 
 **Show support:**
 <br>
